@@ -1,0 +1,45 @@
+/* *{
+   font-family: sans-serif;
+   margin: 0px;
+   padding: 0px;
+}
+
+#logo{
+   border-radius : 70px;
+   margin-left: 20px;
+   margin-top: 10px;
+}
+
+div.here{
+   
+   font-size: 120%;
+   height: 110px;
+}
+
+.navigation{
+   font-size: large;
+   height : 30px;
+   text-transform:uppercase;
+   padding-top: 10px;
+   text-decoration-color: aliceblue;
+}
+
+a{
+    margin-right: 150px;
+}
+
+
+.thumbnail{
+    box-align : centre;
+    width : 1525px;
+}
+
+.mid1
+{
+    background-image: url("download.jpg");
+}
+
+
+h1{
+    text-align : centre;
+} */
